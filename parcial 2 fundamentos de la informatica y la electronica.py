@@ -1,3 +1,5 @@
+# cristhian correa - luis santana. taller parcial 2
+
 import tkinter as tk
 from tkinter import messagebox
 import requests
